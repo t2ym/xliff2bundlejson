@@ -1,6 +1,6 @@
 {
-	"name": "xliff2json",
-	"version": "0.0.2",
+	"name": "xliff2bundlejson",
+	"version": "0.0.3",
 	"dependencies": {
 		"xml2js": "*",
 		"underscore": "*"
