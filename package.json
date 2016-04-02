@@ -1,6 +1,6 @@
 {
 	"name": "xliff2bundlejson",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"dependencies": {
 		"xml2js": "*",
 		"underscore": "*"
@@ -8,6 +8,9 @@
 	"main": "lib/index.js",
 	"scripts":{
 		"test": "mocha"
+	},
+	"dependencies": {
+		"flat": "^2.0.0"
 	},
 	"devDependencies":{
 		"mocha": "*",
