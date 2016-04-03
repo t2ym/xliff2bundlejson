@@ -1,6 +1,7 @@
 {
 	"name": "xliff2bundlejson",
-	"version": "0.0.6",
+	"description": "Convert to/from XLIFF and JSON for Polymer i18n-behavior",
+	"version": "0.0.7",
 	"dependencies": {
 		"xml2js": "*",
 		"underscore": "*",
