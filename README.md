@@ -1,5 +1,6 @@
 #xliff2bundlejson
 
-A library for convert to-from xliff and bundle JSON for [i18n-behavior](https://github.com/t2ym/i18n-behavior).
+DEPRECATED. A library for convert to-from xliff and bundle JSON for [i18n-behavior](https://github.com/t2ym/i18n-behavior).
 
-See [gulp-i18n-leverage](https://github.com/t2ym/gulp-i18n-leverage) for details.
+Please use the upper compatible [xliff-conv](https://github.com/t2ym/xliff-conv) instead.
+Handy migration from `xliff2bundlejson` to `xliff-conv` is supported.

@@ -1,17 +1,18 @@
 {
-	"name": "xliff2bundlejson",
-	"description": "Convert to/from XLIFF and JSON for Polymer i18n-behavior",
-	"version": "0.0.14",
-	"dependencies": {
-		"xml2js": "*",
-		"underscore": "*"
-	},
-	"main": "lib/index.js",
-	"scripts":{
-		"test": "mocha"
-	},
-	"devDependencies":{
-		"mocha": "*",
-		"assert": "*"
-	}
+  "name": "xliff2bundlejson",
+  "description": "[DEPRECATED] Convert to/from XLIFF and JSON for Polymer i18n-behavior; Please use xliff-conv instead.",
+  "version": "0.0.15",
+  "dependencies": {
+    "underscore": "*",
+    "xml2js": "*",
+    "xmldom": "^0.1.22"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "assert": "*"
+  }
 }
